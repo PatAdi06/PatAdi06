@@ -1,4 +1,7 @@
-## Hi there 👋
+##Hi there, I'm Adi! 👋
+Computer Science Student | Software Engineering Enthusiast | ML Enjoyer
+
+I'm a 2nd-year Computer Science student at Brunel University and am passionate about building meaningful software and exploring how Machine Learning can be applied to solve real-world problems. I am currently learning about the basics of Web Development, as well as building a project in a group about a solution to solve a UN Sustainable Development Goal (Industry, innovation and infrastructure).
 
 <!--
 **PatAdi06/PatAdi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
