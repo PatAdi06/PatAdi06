@@ -8,7 +8,7 @@ I'm a 2nd-year Computer Science student at Brunel University and am passionate a
 I am working with languages, such as:
 - Python
 - Java
-- HTMl
+- HTML
 - CSS
 - JavaScript
 
